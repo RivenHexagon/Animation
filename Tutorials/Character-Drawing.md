@@ -9,23 +9,32 @@ Udemy Course by Scott Harris <br>
 * Do it **every day**
 * The whole **exercise** takes about **5 min**
 * **Lock** your **wrist** and **draw** with **arm** and **elbow**
-* Draw a **page** of **circles**
+* **Circles** exercise of **one page**
     * **Draw** 'em **swift** and **losely**
     * **Thrive** for drawing **good** ones but **not** slowly or **cramped**
     * Put **circles in** the **circles**
-* Draw a **page** of **ellipses** (circles in perspective)
+* **Ellipses** exercise of **one page** (circles in perspective)
     * **Good** ellipses are **mirrowed** at the **minor axis**
     * **Vary** the **width** of the ellipsis (degree of a circle's rotation)
     * The **minor axis** allways points to a **vanishing point** in perspective
     * **Check** ellipses **accuracy** after a **full page** (draw axis, tick 'em)
-* Draw **2-3 pages** of straight parallel **lines**
+* **Lines** exercise of **2-3 pages**, draw **straight** and **parallel**
     * Draw 'em **top to bottom** and **bottom to top**
-* **Point to point** exercise
+* **Point to point** exercise of one **page**
     * Draw a bunch of **dots**. First **ghost**, then **draw** straight **lines** that **connects** 'em
     * **Rotate** the **page** (digitally or physically) if desired
 
-
 ### 17. Drawing in 3D
+* Shape - Kontur, Umriss
+* Form - Form (im Raum)
+* Draw 3D trough **forms**, like **cylinders** (2 ellipses and 2 lines) or **boxes**
+* Draw **all sides** of a basic form, including the **hidden** ones
+* **Imagine** the objects **in 3D** when you **draw** 'em.
+* Move away from an 2D idea of drawing
+* We do **not** want **direct** front or side **views** in art
+* Build **forms** from simple **shapes** and refine into **detail**
+* Feel the form and support it with conture lines
+* Imagine the **volume** of a form
 
 ### 18. Dynamic Drawing
 
