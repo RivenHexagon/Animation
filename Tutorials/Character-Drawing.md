@@ -42,7 +42,7 @@ Udemy Course by Scott Harris <br>
     * Loose, **fast** drawn lines are **smooth** and **tapered**.
     * Draw with your **arms** for the **bigger** shapes, but with your **wrist** for the **smaller** ones.
 * **Dynamism** is about **movement** and **flow** in **shapes**.
-    * Triangle example - **static** and in **flow** *(t = 5:10)*.
+    * Triangle example - **static** and in **flow**. *(t = 5:10)*
     * Dynamic shapes seem **alive**, moving or formed by **energy**, for e.g. human and animal **bodies** or **trees** and even **hills** and mountains.
 
 ### 19, Showing Depth in your Drawings
@@ -51,7 +51,7 @@ Udemy Course by Scott Harris <br>
 ### 20. Asymmentry in Drawings
 * **Converging** but **asymmentrical** lines show more **dynamic**.
 * **Parallels** or **mirroring** often looks too balanced and engineered.
-* Parallels in **literal**, **mirroring** and **symbolic** terms *(t = 2:00)*.
+* Parallels in **literal**, **mirroring** and **symbolic** terms. *(t = 2:00)*
 * **Avoid parallels** at all times *(t = 2:50)*.
 * An **odd number** of buttons on a shirt are better than an even count.
 * We want **asymmentrical** shapes in **everything**.
@@ -62,9 +62,9 @@ Udemy Course by Scott Harris <br>
     * drawing the **hidden** edges.
     * **overlapping** objects.
 * **Weighting** lines **enhances** overlapses.
-* We can **darken** the **origin** of the background **lines** to hint a **shadow** *(t = 4:10)*.
+* We can **darken** the **origin** of the background **lines** to hint a **shadow**. *(t = 4:10)*
 * Keep **inner details** at **thinner** lines.
-* See Orc character **example** *(t = 5:30)*.
+* See Orc character **example** *(t = 5:30)*
 
 ### 22. Drawing Thinly and Lightly
 * In **general** lean towards **lighter** and **thinner** lines.
@@ -76,14 +76,31 @@ Udemy Course by Scott Harris <br>
 * **Not** drawing fast can be **relatet** to
     * not beeing **lose**
     * **fear** of how and what to draw
-* As **fast** and **accurate** at the same time *(t = 1:00)*. 
+* As **fast** and **accurate** at the same time. *(t = 1:00)*
 * **Speed** means **looseness** that has a **natural** look.
 * **Faster** drawing -> **more** drawings -> quicker **progress**
 
 ### 24. Two Stage Drawing Workflow
+* **Stage One**: the **Rough**
+    * solid **foundation**
+    * bulk of **theory**
+    * **planing** phase
+    * very **loose** and **care-free** *(t = 2:40)*
+    * it's **ugly** like a **construction site**
+* **Stage Two**: the **Refined**
+    * **professionalism**
+    * **clean**
+    * good **presentation**
+    * makes work look **pretty**
+    * **free** and **most creative** stage
+    * do the **decorative** stuff
+* The **utmost** is **build** in the **rough**, but it takes only **20%** of the **time**! *(t = 5:30)*
+* It's the **80/20 Rule** of rough and refined.
+* See Elve character **example** *(t = 6:00)*
+
+*continue @ t = 8:00*
 
 
-*continue @ t = 0:00*
 
 ## Section 4: Character Forms and Proportions
 22 Lectures, 3h 10 min
