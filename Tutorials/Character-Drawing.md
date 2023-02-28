@@ -66,6 +66,23 @@ Udemy Course by Scott Harris <br>
 * Keep **inner details** at **thinner** lines.
 * See Orc character **example** *(t = 5:30)*.
 
+### 22. Drawing Thinly and Lightly
+* In **general** lean towards **lighter** and **thinner** lines.
+* Can make a line **thicker easily**, but not thinner.
+* Can make **corrections** by pressing **harder** on top.
+* **Remember** this lesson!
+
+### 23. The Importance of Drawing Fast
+* **Not** drawing fast can be **relatet** to
+    * not beeing **lose**
+    * **fear** of how and what to draw
+* As **fast** and **accurate** at the same time *(t = 1:00)*. 
+* **Speed** means **looseness** that has a **natural** look.
+* **Faster** drawing -> **more** drawings -> quicker **progress**
+
+### 24. Two Stage Drawing Workflow
+
+
 *continue @ t = 0:00*
 
 ## Section 4: Character Forms and Proportions
