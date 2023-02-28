@@ -54,6 +54,17 @@ Udemy Course by Scott Harris <br>
 * Parallels in **literal**, **mirroring** and **symbolic** terms *(t = 2:00)*.
 * **Avoid parallels** at all times *(t = 2:50)*.
 * An **odd number** of buttons on a shirt are better than an even count.
+* We want **asymmentrical** shapes in **everything**.
+
+### 21. Drawing Line Weights
+* **Atmospheric Perspective** can be achieved through line weights (**faint** or **thin** lines lines in the **distance**).
+* We can achieve a 3D look by
+    * drawing the **hidden** edges.
+    * **overlapping** objects.
+* **Weighting** lines **enhances** overlapses.
+* We can **darken** the **origin** of the background **lines** to hint a **shadow** *(t = 4:10)*.
+* Keep **inner details** at **thinner** lines.
+* See Orc character **example** *(t = 5:30)*.
 
 *continue @ t = 0:00*
 
