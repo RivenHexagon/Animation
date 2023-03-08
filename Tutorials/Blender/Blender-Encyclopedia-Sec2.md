@@ -23,7 +23,7 @@ Udemy Course by Lee Salvemini, Chris Plush, CG Masters <br>
 *   **Maximize Area**:
 *   * Hover over it and hit ***Ctrl+Space***. Leaves menu bar at top and the info bar at bottom.
 *   * **Full screen** the area with ***Ctrl+Alt+Space***. Leaves no bars at top or bottom.
-*   * Select *Header Menu->View->Area->Toggle Maximize Area* or *Toggle Fullscreen Area*.
+*   * Select *Header Menu  ->  View  ->  Area  ->  Toggle Maximize Area* or *Toggle Fullscreen Area*.
 *   **Resize Areas**: hover over the border until cursor changes into a dubble arrow, then
     ***Click and drag***.
 *   **Split Areas**:
@@ -40,18 +40,18 @@ Udemy Course by Lee Salvemini, Chris Plush, CG Masters <br>
     * Choose *swap areas* from the *Area Options* pop-up menu.
 *   **Editor in seperate Window**: ***Shift+Left Click and drag*** an area's corner to pop it out.
 *   **Flip Header Position**: ***Right Click*** on header menu and choose
-    *(Header->)Flip to Bottom/Top*.
+    *(Header  ->  )Flip to Bottom/Top*.
 *   **Reorder Panel Items** by **Click and drag** them into the new position by the handler icon (=).
 *   **Zoom Text**:
 *   * In some editors ***Middle Click and drag***.
-    * For **overall** text scale select *Main Menu->Edit->Preferences-->Interface->Resolution Scale*.
-*   **Safe Interface Settings**: Select *Main Menu->File->Defaults->Save Startup File*. All changes
+    * For **overall** text scale select *Main Menu  ->  Edit  ->  Preferences-  ->  Interface  ->  Resolution Scale*.
+*   **Safe Interface Settings**: Select *Main Menu  ->  File  ->  Defaults  ->  Save Startup File*. All changes
     made will be **default** for **new files**. This **includes values** and other settings, even
     **3D objects**.
 
 ### 6. Workspaces
 *   Predefined **Workspaces** are found to the right of the main menu (*Layout, Modeling, Sculpting, etc.*).
-*   **Customize** them and **save** the changes with *Main Menu->File->Defaults->Save Startup File*.
+*   **Customize** them and **save** the changes with *Main Menu  ->  File  ->  Defaults  ->  Save Startup File*.
 *   **Add additional** workspaces with the *plus icon* and **cloning** an **existing** one.
 *   **Reorder** and **delete** is possible by ***Right Click*** on the **name** of the workspace.
 
@@ -90,14 +90,14 @@ Udemy Course by Lee Salvemini, Chris Plush, CG Masters <br>
     **collections**. (Collections replace Layers from older versionsof blender.)
 *   **Properties Editor** changes render and world settings, add modifiers, materials and physics.
 *   **File Browser** opens also with ***Ctrl+O*** to open or ***Ctrl+Shift+S*** to safe a file, etc.
-*   **Preferences Editor** can also be accessed by *Main Menu->Edit->Preferences*. Contains most
+*   **Preferences Editor** can also be accessed by *Main Menu  ->  Edit  ->  Preferences*. Contains most
     options to **cutomize** blender such as **hot keys**, interface **colors**, etc.
 
 ### 11. User Preferences and Suggested Changes
-*   **Saving Preferences menu** (bottom left icon) of the **preferences editor** (*Main Menu->Edit->Preferences*). If **Auto-Save** is checked, all changes are saved to the **blender default** file. Otherwise it's only saved for the current project. Use **Safe Preferences** to manually add changes made to the default file. You can also revert to the **last saved** and **Load Factory Preferences**.
+*   **Saving Preferences menu** (bottom left icon) of the **preferences editor** (*Main Menu  ->  Edit  ->  Preferences*). If **Auto-Save** is checked, all changes are saved to the **blender default** file. Otherwise it's only saved for the current project. Use **Safe Preferences** to manually add changes made to the default file. You can also revert to the **last saved** and **Load Factory Preferences**.
 * Preferences **Sections**:
     * **Interface** section is all about the overall look of blender. **Resolution scale** for e.g. adjusts the **font size**.
-    * **Themes** is about **colors** and interface **style**. For e.g. adjust *Themes->3D View->Vertex Size*.
+    * **Themes** is about **colors** and interface **style**. For e.g. adjust *Themes  ->  3D View  ->  Vertex Size*.
     * **Viewport** is about **display** options.
     * **Lights** adjusts the **preview** and **studio** light sources.
     * **Editing** and **Animation** are specific to working with objects in different modes.
@@ -112,15 +112,15 @@ Udemy Course by Lee Salvemini, Chris Plush, CG Masters <br>
     * **Save & Load** about blend files and loading **User Interface** (UI) settings.
     * **File Paths** defines where to save to and load from. For e.g. render outputs.
 * **Suggested changes**:
-    * Turn off *Interface->Editors: Navigation Controls*. Use **hot keys** instead.
-    * Set *Interface->Menus->Pie Menus: Animations Timeout* to **0**.
-    * Install *Add-ons->Node: Node Wrangler*.
-    * Check *Navigation->Orbit&Pan->Auto->Depth*. Stets the **pivot point** that the view rotates around in 3D space, when ***Middle click and drag***.
-    * Check *Navigation->Zoom->Zoom To Mouse Position*.
-    * Add ***Alt+F11*** as a **hot key** for the menu option *Main Menu->Window->Toggle Window Fullscreen*.
-    * Set *Keymap->3D View->3D View (Global)->Pan View* to ***Mouse Button4***.
-    * Use *OptiX* on GPU and CPU under *System->Cycles Render Devices*.
-    * If *Save & Load->Blend Files->Load UI* is checked, it loads the UI settings that come with the blend file.
+    * Turn off *Interface  ->  Editors: Navigation Controls*. Use **hot keys** instead.
+    * Set *Interface  ->  Menus  ->  Pie Menus: Animations Timeout* to **0**.
+    * Install *Add-ons  ->  Node: Node Wrangler*.
+    * Check *Navigation  ->  Orbit&Pan  ->  Auto  ->  Depth*. Stets the **pivot point** that the view rotates around in 3D space, when ***Middle click and drag***.
+    * Check *Navigation  ->  Zoom  ->  Zoom To Mouse Position*.
+    * Add ***Alt+F11*** as a **hot key** for the menu option *Main Menu  ->  Window  ->  Toggle Window Fullscreen*.
+    * Set *Keymap  ->  3D View  ->  3D View (Global)  ->  Pan View* to ***Mouse Button4***.
+    * Use *OptiX* on GPU and CPU under *System  ->  Cycles Render Devices*.
+    * If *Save & Load  ->  Blend Files  ->  Load UI* is checked, it loads the UI settings that come with the blend file.
 
 ### 12. Saving and Loading
 * Use ***Ctrl+Shift+S*** to save as a new file. With ***Numpad (+)*** a **numeral extension** can be added and increased.
@@ -132,19 +132,19 @@ Udemy Course by Lee Salvemini, Chris Plush, CG Masters <br>
 * The *Favourites* section holds **quick access** to prefered **folders**.
 
 ### 13. File Backups and Recovery
-* *Main Menu->File->Recover->Last Session* opens up the last file that was **closed** from the file *quit.blend*.
-* *Main Menu->File->Recover->Auto Save...* opens the folder with the **auto saved** files. Usually saves every **two minutes**. This can be adjusted under *...->Preferences->Save & Load->Auto Save->Timer*.
-* Blender also creates **backup** *\*.blend1* files with the status of the open file **before saving** recent changes. The number of backup files can be increased under *...->Preferences->Save & Load->Blend Files->Save Versions*.
+* *Main Menu  ->  File  ->  Recover -> Last Session* opens up the last file that was **closed** from the file *quit.blend*.
+* *Main Menu -> File -> Recover -> Auto Save...* opens the folder with the **auto saved** files. Usually saves every **two minutes**. This can be adjusted under *... -> Preferences -> Save & Load -> Auto Save -> Timer*.
+* Blender also creates **backup** *\*.blend1* files with the status of the open file **before saving** recent changes. The number of backup files can be increased under *... -> Preferences -> Save & Load -> Blend Files -> Save Versions*.
 
 ### 14. Importing and Exporting
-* **Import** files with *Main Menu->Files->Import*
-* **Export** files with *Main Menu->Files->Export*
+* **Import** files with *Main Menu -> Files -> Import*
+* **Export** files with *Main Menu -> Files -> Export*
     * Use *Selection Only* to export **specific** elements only.
-* **Add** additional file **formats** under *...->Preferences->Add-ons->Import-Export (drop down)*, for e.g. *AutoCAD*.
+* **Add** additional file **formats** under *... -> Preferences -> Add-ons -> Import-Export (drop down)*, for e.g. *AutoCAD*.
 
 ### 15. Navigating Through 3D Space
 * All **view options** can be found in the *View Menu* at the top of most areas.
-* *View Menu->Viewpoint* lists the **numpad shortcuts**.
+* *View Menu -> Viewpoint* lists the **numpad shortcuts**.
 * **Additional** numpad shortcuts: 
     * Pressing ***Numpad 4/6*** repeadetly, **rotates** in fixed increments around the users **vertical** view axis.
     * Pressing ***Numpad 2/8*** repeadetly, **rotates** in fixed increments around the users **horizontal** view axis.
@@ -169,7 +169,7 @@ Udemy Course by Lee Salvemini, Chris Plush, CG Masters <br>
 * Grid divides dynamically in fractions of 10
 
 ### 17. Units of Measurement
-* Under *Propertes Editor->Scene Properties->Units* the *Unit System* can be selected as well as the *Unit Scale*.
+* Under *Propertes Editor -> Scene Properties -> Units* the *Unit System* can be selected as well as the *Unit Scale*.
 * When working with very **large** objects it may be better to **increase** the *Unit Scale* instead of changing the grid to avaid **numerical precision** problems. Blender doesn't like when objects are scaled **extremely** large or small. *(t = 0:40)*
 * If the **scene** is modeled to small, **increasing** the *Unit Scale* can fix this **without rescaling** the **objects** in the scene. *(t = 1:10)*
 * With *Separate Units*, for e.g. `1.5m` turns into `1m 50cm`.
@@ -180,5 +180,22 @@ Udemy Course by Lee Salvemini, Chris Plush, CG Masters <br>
 * TODO Studio light
 * Press ***Shift+Z*** to **toggle** between **solid** shading and **wireframe** when modeling.
 
+### 19. Viewport Options
 
-*continue @ t = 0:00*
+
+### 20. Different Workmodes Overview
+* *Blender* opens per **default** in **Object Mode**.
+* **Change** work mode
+    * in the *Work Mode Menu* (**2nd. drop down** from the **top left** in the **view port**)
+    * Press ***Ctrl+Tab*** to open a **pie menu**. Use ***Numpad*** or ***Left Mouse*** to choose.
+    * Press ***Tab*** to **toggle** between the **previous mode** and **Edit Mode**.
+* **Edit Mode** is the primary mode for **moddeling**.
+    * If **multiple** objects are **selected** in object mode, they can **simultaneously** be **edited** in edit mode.
+* **Sculpt Mode** can be used on **meshes**, like on a piece of **clay**.
+* **Vertex Paint** can be used on **meshes**, to paint the vertices and **faces** between them. *(t = 2:30)*
+    * The **color** will **disappear** in **Object Mode** unless *Viewport Shading Menu -> Color -> Vertex* is on.
+* **Weight Paint** determines the **influcence** of a **rigged** object by the **movement**. <br>(called *Pose Mode* in *2.9*) *(t = 3:25)*
+    * Since it influcences **vertex groups** it can be used for **other purposes**, too. *(t = 6:40)*
+* **Texture Paint**
+
+*continue @ t = 6:50*
