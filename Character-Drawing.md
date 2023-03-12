@@ -97,6 +97,17 @@ Udemy Course by Scott Harris <br>
 * The **utmost** is **build** in the **rough**, but it takes only **20%** of the **time**! *(t = 5:30)*
 * It's the **80/20 Rule** of rough and refined.
 * See Elve character **example** *(t = 6:00)*
+    * The **structure** is right
+    * The **details** go easily **on top**
+    * final **line weight** is applied
+* The **global workflow** consists of
+    * **Rough** stage (contains almost all the theory)
+        * **Shape** (gesture, character composition, etc.)
+        * **Form** (anatomy, structure, etc.)
+        * **Details**
+    * **Refined** stage
+* You can **easily** finnish up a **fundamentally strong** rough
+
 
 *continue @ t = 8:00*
 
